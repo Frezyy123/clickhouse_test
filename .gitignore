@@ -1,0 +1,7 @@
+/_build
+/deps
+.idea/*
+*.iml
+/doc
+/examples
+/.elixir_ls
